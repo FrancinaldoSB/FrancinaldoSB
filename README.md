@@ -22,6 +22,8 @@
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/018b6902-baf0-4d5b-a35c-a2c92533a96d.svg)](https://wakatime.com/@018b6902-baf0-4d5b-a35c-a2c92533a96d)
+
 ## Informações sobre minha conta GitHub
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FrancinaldoSB&show_icons=true&count_private-true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt=Francinaldo Barbosa Github Stats" />
