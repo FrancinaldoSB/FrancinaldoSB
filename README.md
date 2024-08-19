@@ -32,10 +32,3 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FrancinaldoSB&bg_color=0d1117&color=ffffff&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
-
-
