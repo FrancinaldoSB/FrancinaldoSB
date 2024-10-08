@@ -2,7 +2,7 @@
 
 > Técnico em informática para internet - IFPI CAPAU;
 
-> Atualmente cursando o 3º período de Sistemas de Informação - UFPI CSHNB
+> Atualmente cursando o 4º período de Sistemas de Informação - UFPI CSHNB
 
 ----
 
